@@ -12,6 +12,4 @@
    🔄 Reverse Engineering
    🧨 Exploit & Malware Development
    🧨 Penetration Testing
-   
-
 </pre>
