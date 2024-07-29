@@ -6,6 +6,7 @@
 
 </div>
 
+<details>
 <pre>
    🟧 I'm Komando
    📟 Engineering student and Infosec Enthusiast
@@ -13,3 +14,4 @@
    🧨 Exploit & Malware Development
    🧨 Penetration Testing
 </pre>
+</details>
