@@ -7,6 +7,9 @@
 </div>
 
 <details>
+  <summary>
+      <b>ABOUT ME: </b>
+  </summary>
 <pre>
    🟧 I'm Komando
    📟 Engineering student and Infosec Enthusiast
