@@ -5,3 +5,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komandod&layout=compact)
 
 </div>
+
+<pre>
+   🟧 I'm Komando
+   📟 Engineering student and Infosec Enthusiast
+   🔄 Reverse Engineering
+   🧨 Exploit & Malware Development
+   🧨 Penetration Testing
+   
+
+</pre>
