@@ -11,7 +11,7 @@
       <b>ABOUT ME: </b>
   </summary>
 <pre>
-   🟧 I'm Komando
+   🛑 I'm 0x2099
    📟 Engineering student and Infosec Enthusiast
    🔄 Reverse Engineering
    🧨 Exploit & Malware Development
