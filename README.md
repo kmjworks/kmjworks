@@ -10,9 +10,7 @@
       <b>ABOUT ME: </b>
   </summary>
 <pre>
-   📟 Engineering student and Infosec Enthusiast
    🔄 Reverse Engineering
    🧨 Exploit & Malware Development
-   🧨 Penetration Testing
 </pre>
 </details>
